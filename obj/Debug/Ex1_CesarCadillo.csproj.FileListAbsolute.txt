@@ -1,7 +1,0 @@
-D:\VisualEx\Ex1_CesarCadillo\Ex1_CesarCadillo\bin\Debug\Ex1_CesarCadillo.exe.config
-D:\VisualEx\Ex1_CesarCadillo\Ex1_CesarCadillo\bin\Debug\Ex1_CesarCadillo.exe
-D:\VisualEx\Ex1_CesarCadillo\Ex1_CesarCadillo\bin\Debug\Ex1_CesarCadillo.pdb
-D:\VisualEx\Ex1_CesarCadillo\Ex1_CesarCadillo\obj\Debug\Ex1_CesarCadillo.csproj.AssemblyReference.cache
-D:\VisualEx\Ex1_CesarCadillo\Ex1_CesarCadillo\obj\Debug\Ex1_CesarCadillo.csproj.CoreCompileInputs.cache
-D:\VisualEx\Ex1_CesarCadillo\Ex1_CesarCadillo\obj\Debug\Ex1_CesarCadillo.exe
-D:\VisualEx\Ex1_CesarCadillo\Ex1_CesarCadillo\obj\Debug\Ex1_CesarCadillo.pdb
