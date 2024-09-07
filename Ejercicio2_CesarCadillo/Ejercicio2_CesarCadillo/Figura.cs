@@ -8,9 +8,6 @@ namespace Ejercicio2_CesarCadillo
 {
     public abstract class Figura
     {
-        public virtual float CalcularArea()
-        {
-            return 0;
-        }
+        public abstract float CalcularArea();
     }
 }
