@@ -10,6 +10,8 @@ namespace EjercicioJuego_CesarCadillo
     {
         static void Main(string[] args)
         {
+            Juego juego = new Juego();
+            juego.Iniciar();
         }
     }
 }
